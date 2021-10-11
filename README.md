@@ -2,7 +2,7 @@
 
 I'm following this walkthough to get an understanding on Rails.
 
-(https://guides.rubyonrails.org/getting_started.html#showing-a-list-of-articles)[Getting Started with Rails]
+[Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html#showing-a-list-of-articles)
 
 
 This README would normally document whatever steps are necessary to get the
